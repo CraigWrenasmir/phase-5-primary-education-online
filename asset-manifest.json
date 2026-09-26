@@ -1,0 +1,410 @@
+{
+  "title": "Primary Education Online",
+  "slug": "primary-online",
+  "session_count": 4,
+  "assets": [
+    {
+      "label": "PL Primary Online - Facilitator Guide",
+      "filename": "PL Primary Online - Facilitator Guide.docx",
+      "format": "docx",
+      "category": "Editable guides",
+      "url": "Original Assets/PL Primary Online - Facilitator Guide.docx",
+      "storage": "pages",
+      "bytes": 3558632,
+      "sha256": "053484abc11a45dddbb3bb37e109155658b83f42861a933398552603191cfc88"
+    },
+    {
+      "label": "PL Primary Online - Participant Guide",
+      "filename": "PL Primary Online - Participant Guide.docx",
+      "format": "docx",
+      "category": "Editable guides",
+      "url": "Original Assets/PL Primary Online - Participant Guide.docx",
+      "storage": "pages",
+      "bytes": 25143,
+      "sha256": "6d5b2c4d09963da2ade006692cd2896824022e7e6751a85039ff863c3c09a309"
+    },
+    {
+      "label": "PL Primary Online - Facilitator Guide",
+      "filename": "PL Primary Online - Facilitator Guide.pdf",
+      "format": "pdf",
+      "category": "Guides",
+      "url": "Original Assets/PL Primary Online - Facilitator Guide.pdf",
+      "storage": "pages",
+      "bytes": 4773965,
+      "sha256": "ab7575d141b0bdee65d296e507003caa221c7393ddda9786caa62869fa1c6e4b"
+    },
+    {
+      "label": "PL Primary Online - Participant Guide",
+      "filename": "PL Primary Online - Participant Guide.pdf",
+      "format": "pdf",
+      "category": "Guides",
+      "url": "Original Assets/PL Primary Online - Participant Guide.pdf",
+      "storage": "pages",
+      "bytes": 219616,
+      "sha256": "c5547c751f0f6532784c18a2403fa4bda641986c47312b74a234318ddab3f4f5"
+    },
+    {
+      "label": "PL Primary Online - Session 1 - Lens and Autistic Experience",
+      "filename": "PL Primary Online - Session 1 - Lens and Autistic Experience.pdf",
+      "format": "pdf",
+      "category": "Slides",
+      "url": "Original Assets/PL Primary Online - Session 1 - Lens and Autistic Experience.pdf",
+      "storage": "pages",
+      "bytes": 2448988,
+      "sha256": "b7faf91f301e1f285aa2521df20541944cfc7221c5f1e2284c85da658fe09c12"
+    },
+    {
+      "label": "PL Primary Online - Session 2 - Communication, Connection and the Primary School Day",
+      "filename": "PL Primary Online - Session 2 - Communication, Connection and the Primary School Day.pdf",
+      "format": "pdf",
+      "category": "Slides",
+      "url": "Original Assets/PL Primary Online - Session 2 - Communication, Connection and the Primary School Day.pdf",
+      "storage": "pages",
+      "bytes": 6695394,
+      "sha256": "f02b2b16f014ded0f1d062f3565288bd4b12c3d65d166973000c43f67673b9c2"
+    },
+    {
+      "label": "PL Primary Online - Session 3 - Designing for Access in the Primary Classroom",
+      "filename": "PL Primary Online - Session 3 - Designing for Access in the Primary Classroom.pdf",
+      "format": "pdf",
+      "category": "Slides",
+      "url": "Original Assets/PL Primary Online - Session 3 - Designing for Access in the Primary Classroom.pdf",
+      "storage": "pages",
+      "bytes": 1355945,
+      "sha256": "f0993304c2f330c81feafe9a289747da9ec13922aa7c05f198e6ab65ea633a2e"
+    },
+    {
+      "label": "PL Primary Online - Session 4 - Partnership, Flourishing and Next Steps",
+      "filename": "PL Primary Online - Session 4 - Partnership, Flourishing and Next Steps.pdf",
+      "format": "pdf",
+      "category": "Slides",
+      "url": "Original Assets/PL Primary Online - Session 4 - Partnership, Flourishing and Next Steps.pdf",
+      "storage": "pages",
+      "bytes": 1796721,
+      "sha256": "993ca1f0e88812af4d1f1a14649c68ccdffe67f357e87bc5c7ad1a59681862e8"
+    },
+    {
+      "label": "PL Primary Online - Session 1 - Lens and Autistic Experience",
+      "filename": "PL Primary Online - Session 1 - Lens and Autistic Experience.pptx",
+      "format": "pptx",
+      "category": "Editable slides",
+      "url": "Original Assets/PL Primary Online - Session 1 - Lens and Autistic Experience.pptx",
+      "storage": "pages",
+      "bytes": 47506934,
+      "sha256": "5515e382def95e7747ec9e24ca8003c243c718a5f7c2867ed80d32c65926cb67"
+    },
+    {
+      "label": "PL Primary Online - Session 2 - Communication, Connection and the Primary School Day",
+      "filename": "PL Primary Online - Session 2 - Communication, Connection and the Primary School Day.pptx",
+      "format": "pptx",
+      "category": "Editable slides",
+      "url": "Original Assets/PL Primary Online - Session 2 - Communication, Connection and the Primary School Day.pptx",
+      "storage": "pages",
+      "bytes": 61233841,
+      "sha256": "27ecd78931b44e549cb82824b795be947ff4fc7a97e407f3895311c41820f02f"
+    },
+    {
+      "label": "PL Primary Online - Session 3 - Designing for Access in the Primary Classroom",
+      "filename": "PL Primary Online - Session 3 - Designing for Access in the Primary Classroom.pptx",
+      "format": "pptx",
+      "category": "Editable slides",
+      "url": "Original Assets/PL Primary Online - Session 3 - Designing for Access in the Primary Classroom.pptx",
+      "storage": "pages",
+      "bytes": 5774057,
+      "sha256": "4523418fb4ffe19994ac3cebde8c6d029d4a962720774544637f87275a5cbbca"
+    },
+    {
+      "label": "PL Primary Online - Session 4 - Partnership, Flourishing and Next Steps",
+      "filename": "PL Primary Online - Session 4 - Partnership, Flourishing and Next Steps.pptx",
+      "format": "pptx",
+      "category": "Editable slides",
+      "url": "Original Assets/PL Primary Online - Session 4 - Partnership, Flourishing and Next Steps.pptx",
+      "storage": "pages",
+      "bytes": 6979074,
+      "sha256": "b016ab629c20f1635924482f8a6663f9db2e2b82c009c8ad2a739bec4724530a"
+    },
+    {
+      "label": "Session 1 · Lens and Autistic Experience",
+      "filename": "Session 1 - Lens and Autistic Experience.mp4",
+      "format": "mp4",
+      "category": "Videos",
+      "url": "https://github.com/CraigWrenasmir/phase-5-primary-education-online/releases/download/workshop-v1/primary-online--session-01.mp4",
+      "storage": "release",
+      "bytes": 117437602,
+      "sha256": "e84acdf6752ca337665fa4d29f32f6a35f88c56cc117cfb91eef6da7ce1ca90f"
+    },
+    {
+      "label": "Session 1 · web playback",
+      "filename": "session-1.mp4",
+      "format": "mp4",
+      "category": "Web playback",
+      "url": "media/session-1.mp4",
+      "storage": "pages",
+      "bytes": 35938791,
+      "sha256": "bc7246663883aae4fc2eafc3a3269128d4af77873d7e7404d24d97212b27cb34"
+    },
+    {
+      "label": "Session 1 · Lens and Autistic Experience · structured script",
+      "filename": "session-1.json",
+      "format": "json",
+      "category": "Scripts",
+      "url": "Scripts/session-1.json",
+      "storage": "pages",
+      "bytes": 27537,
+      "sha256": "0770a6881f9e41a469ecd4af37fafd603034df01739a9722cdf4220a4cc321cf"
+    },
+    {
+      "label": "Session 1 · Lens and Autistic Experience · readable script",
+      "filename": "session-1.md",
+      "format": "md",
+      "category": "Scripts",
+      "url": "Scripts/session-1.md",
+      "storage": "pages",
+      "bytes": 21739,
+      "sha256": "80e90697c7510af0479a893c756f81b2c916214345a82ccce5e9d35b3464da4c"
+    },
+    {
+      "label": "Session 1 · SRT",
+      "filename": "Session 1 - Lens and Autistic Experience.srt",
+      "format": "srt",
+      "category": "Captions",
+      "url": "Captions/session-1.srt",
+      "storage": "pages",
+      "bytes": 22001,
+      "sha256": "2d608b6a313833f158585c874cc10193aaeb3a875458550cbf229b983d06f8b5"
+    },
+    {
+      "label": "Session 1 · VTT",
+      "filename": "Session 1 - Lens and Autistic Experience.vtt",
+      "format": "vtt",
+      "category": "Captions",
+      "url": "Captions/session-1.vtt",
+      "storage": "pages",
+      "bytes": 22009,
+      "sha256": "5f93de1f4e579bb3af6eac3bfcd4d3460804e39fce96308632a0909209e13454"
+    },
+    {
+      "label": "Session 2 · Communication, Connection and the Primary School Day",
+      "filename": "Session 2 - Communication, Connection and the Primary School Day.mp4",
+      "format": "mp4",
+      "category": "Videos",
+      "url": "https://github.com/CraigWrenasmir/phase-5-primary-education-online/releases/download/workshop-v1/primary-online--session-02.mp4",
+      "storage": "release",
+      "bytes": 244011872,
+      "sha256": "d8e99b946aef52f69f714dc5d282ff3c27761c8ce8856c4daa2b3c714a4a89e7"
+    },
+    {
+      "label": "Session 2 · web playback",
+      "filename": "session-2.mp4",
+      "format": "mp4",
+      "category": "Web playback",
+      "url": "media/session-2.mp4",
+      "storage": "pages",
+      "bytes": 76121230,
+      "sha256": "00bec8a2ec16dc655947822ceb43a0003db085e656855e881290a81afd8cbed7"
+    },
+    {
+      "label": "Session 2 · Communication, Connection and the Primary School Day · structured script",
+      "filename": "session-2.json",
+      "format": "json",
+      "category": "Scripts",
+      "url": "Scripts/session-2.json",
+      "storage": "pages",
+      "bytes": 29718,
+      "sha256": "5f53185ff97f509b32f44252243d23cf8f1f29fef085434a56fa5df890527d57"
+    },
+    {
+      "label": "Session 2 · Communication, Connection and the Primary School Day · readable script",
+      "filename": "session-2.md",
+      "format": "md",
+      "category": "Scripts",
+      "url": "Scripts/session-2.md",
+      "storage": "pages",
+      "bytes": 23194,
+      "sha256": "40adcb7d3b0a35ccf234524d2d75a7c75137bdce8874928c005158bd89c1614a"
+    },
+    {
+      "label": "Session 2 · SRT",
+      "filename": "Session 2 - Communication, Connection and the Primary School Day.srt",
+      "format": "srt",
+      "category": "Captions",
+      "url": "Captions/session-2.srt",
+      "storage": "pages",
+      "bytes": 22904,
+      "sha256": "590d2c12cc8f422710d3e380c8ce8ab0d94e634bc8ecdd63b28a6e3d2c1c9a3f"
+    },
+    {
+      "label": "Session 2 · VTT",
+      "filename": "Session 2 - Communication, Connection and the Primary School Day.vtt",
+      "format": "vtt",
+      "category": "Captions",
+      "url": "Captions/session-2.vtt",
+      "storage": "pages",
+      "bytes": 22912,
+      "sha256": "38725fc44d73b6b76bc03d1cbdd26b96f91b4e2b4fe9fda8c90d17ab0548d465"
+    },
+    {
+      "label": "Session 3 · Designing for Access in the Primary Classroom",
+      "filename": "Session 3 - Designing for Access in the Primary Classroom.mp4",
+      "format": "mp4",
+      "category": "Videos",
+      "url": "https://github.com/CraigWrenasmir/phase-5-primary-education-online/releases/download/workshop-v1/primary-online--session-03.mp4",
+      "storage": "release",
+      "bytes": 84109374,
+      "sha256": "1d3cf97c079b9794bfd5e63c638bcba260d0aba38f90ba23e3ee823e09af5f58"
+    },
+    {
+      "label": "Session 3 · web playback",
+      "filename": "session-3.mp4",
+      "format": "mp4",
+      "category": "Web playback",
+      "url": "media/session-3.mp4",
+      "storage": "pages",
+      "bytes": 28807595,
+      "sha256": "d37eb4784fc21c389631caf691caecc71ddc999914c323ca66e0d9c0bed3f9d3"
+    },
+    {
+      "label": "Session 3 · Designing for Access in the Primary Classroom · structured script",
+      "filename": "session-3.json",
+      "format": "json",
+      "category": "Scripts",
+      "url": "Scripts/session-3.json",
+      "storage": "pages",
+      "bytes": 28010,
+      "sha256": "66cfb9ac8eca13995d61725bd25147c3fd37daa62b11e55c6d86166e6c39de8c"
+    },
+    {
+      "label": "Session 3 · Designing for Access in the Primary Classroom · readable script",
+      "filename": "session-3.md",
+      "format": "md",
+      "category": "Scripts",
+      "url": "Scripts/session-3.md",
+      "storage": "pages",
+      "bytes": 22509,
+      "sha256": "674090ebb4cb2d56fede61a67a91ae17b29084a999940bd88992624be91e0704"
+    },
+    {
+      "label": "Session 3 · SRT",
+      "filename": "Session 3 - Designing for Access in the Primary Classroom.srt",
+      "format": "srt",
+      "category": "Captions",
+      "url": "Captions/session-3.srt",
+      "storage": "pages",
+      "bytes": 23177,
+      "sha256": "b5d21cec8e94e9a131a4d6da948a093708fb6579885e7ca464fa7cef4162891b"
+    },
+    {
+      "label": "Session 3 · VTT",
+      "filename": "Session 3 - Designing for Access in the Primary Classroom.vtt",
+      "format": "vtt",
+      "category": "Captions",
+      "url": "Captions/session-3.vtt",
+      "storage": "pages",
+      "bytes": 23185,
+      "sha256": "d3dc5b92cba7f4de1038ad3e17f38f13437677e62bb195b0aa45fb3945f2ae2e"
+    },
+    {
+      "label": "Session 4 · Partnership, Flourishing and Next Steps",
+      "filename": "Session 4 - Partnership, Flourishing and Next Steps.mp4",
+      "format": "mp4",
+      "category": "Videos",
+      "url": "https://github.com/CraigWrenasmir/phase-5-primary-education-online/releases/download/workshop-v1/primary-online--session-04.mp4",
+      "storage": "release",
+      "bytes": 103756268,
+      "sha256": "a99703c7baa3b10b20d442d45336eaa8c7ad5ec751b9b8f23b95abf60d16e81f"
+    },
+    {
+      "label": "Session 4 · web playback",
+      "filename": "session-4.mp4",
+      "format": "mp4",
+      "category": "Web playback",
+      "url": "media/session-4.mp4",
+      "storage": "pages",
+      "bytes": 33853379,
+      "sha256": "0185f757e4bc74c005e506cebbce86ac30199b15eb6ef7257a78abc1daebf099"
+    },
+    {
+      "label": "Session 4 · Partnership, Flourishing and Next Steps · structured script",
+      "filename": "session-4.json",
+      "format": "json",
+      "category": "Scripts",
+      "url": "Scripts/session-4.json",
+      "storage": "pages",
+      "bytes": 30621,
+      "sha256": "e470d5e646abf82802837ea95605da60ddd5c881ae6c6d166877bfa8f8e6308e"
+    },
+    {
+      "label": "Session 4 · Partnership, Flourishing and Next Steps · readable script",
+      "filename": "session-4.md",
+      "format": "md",
+      "category": "Scripts",
+      "url": "Scripts/session-4.md",
+      "storage": "pages",
+      "bytes": 24329,
+      "sha256": "85f1fc2a5ee5fa68e0df7c37e8b4222626c39a66f62066e19074760ab7f527de"
+    },
+    {
+      "label": "Session 4 · SRT",
+      "filename": "Session 4 - Partnership, Flourishing and Next Steps.srt",
+      "format": "srt",
+      "category": "Captions",
+      "url": "Captions/session-4.srt",
+      "storage": "pages",
+      "bytes": 24184,
+      "sha256": "43a817b5b0381c1e07bafe744f46db659f27cae995db118e1003591b6dbd208c"
+    },
+    {
+      "label": "Session 4 · VTT",
+      "filename": "Session 4 - Partnership, Flourishing and Next Steps.vtt",
+      "format": "vtt",
+      "category": "Captions",
+      "url": "Captions/session-4.vtt",
+      "storage": "pages",
+      "bytes": 24192,
+      "sha256": "e8cf9fe874e54178e86417c0ef918f0bfcce3e3c97041df8247fb09a7c06f82f"
+    },
+    {
+      "label": "Complete online workshop",
+      "filename": "Full Workshop.mp4",
+      "format": "mp4",
+      "category": "Videos",
+      "url": "https://github.com/CraigWrenasmir/phase-5-primary-education-online/releases/download/workshop-v1/primary-online--full-workshop.mp4",
+      "storage": "release",
+      "bytes": 549316674,
+      "sha256": "418b3dd624c758952fe48d1974256711498975b6bc3e2ef551f144a24fbe6d83"
+    },
+    {
+      "label": "Complete workshop · SRT",
+      "filename": "Full Workshop.srt",
+      "format": "srt",
+      "category": "Captions",
+      "url": "Captions/full-workshop.srt",
+      "storage": "pages",
+      "bytes": 92593,
+      "sha256": "da601ca7fd5236306f8777108cb69b7c2d5f081024c8c806394f6506592bf733"
+    },
+    {
+      "label": "Complete workshop · VTT",
+      "filename": "Full Workshop.vtt",
+      "format": "vtt",
+      "category": "Captions",
+      "url": "Captions/full-workshop.vtt",
+      "storage": "pages",
+      "bytes": 92601,
+      "sha256": "9db0c54fe73e9e477daf7881b23f0e0273490e789ba87a30c4102df833f7456b"
+    },
+    {
+      "label": "Full facilitation script",
+      "filename": "Full Facilitation Script.md",
+      "format": "md",
+      "category": "Scripts",
+      "url": "Scripts/Full Facilitation Script.md",
+      "storage": "pages",
+      "bytes": 91878,
+      "sha256": "6e40cff9e000f607755119bfda799341d9fea8e3dc84403507fd72d4b8ec9e77"
+    }
+  ],
+  "source_original_count": 12,
+  "basis_repository_commit": "e4048ed317b59429fa0c9ed00b2ad647e5d52674",
+  "playback": "Same-site web derivatives. Full-quality videos are Release downloads only."
+}
