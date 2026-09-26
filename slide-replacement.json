@@ -1,0 +1,71 @@
+{
+  "date": "2026-09-27",
+  "workshop": "Primary Education Online",
+  "session": 2,
+  "slide": 16,
+  "scope": "Positive Autistic Identity visual replacement",
+  "replacement": {
+    "url": "assets/positive-autistic-identity.png",
+    "bytes": 304549,
+    "sha256": "00a21d602ef86ade6a0c2861d29cb3147509cb4ebfb950975a69b7237016bce1"
+  },
+  "source_documents": "Original downloadable source documents remain unchanged.",
+  "frame_rate": 25,
+  "session_interval": {
+    "start_frame": 34142,
+    "end_frame": 35747
+  },
+  "combined_interval": {
+    "start_frame": 63226,
+    "end_frame": 64831
+  },
+  "media": {
+    "session_download": {
+      "url": "https://github.com/CraigWrenasmir/phase-5-primary-education-online/releases/download/workshop-v1/primary-online--session-02.mp4",
+      "bytes": 243538451,
+      "sha256": "11074c372b0b693f3b12df38e4276177cc2a2635b85d98d9c57f6e9e12a06143",
+      "previous": {
+        "bytes": 244011872,
+        "sha256": "d8e99b946aef52f69f714dc5d282ff3c27761c8ce8856c4daa2b3c714a4a89e7"
+      }
+    },
+    "combined_download": {
+      "url": "https://github.com/CraigWrenasmir/phase-5-primary-education-online/releases/download/workshop-v1/primary-online--full-workshop.mp4",
+      "bytes": 548846881,
+      "sha256": "b3980d3545fcd25a267bfa2912fc8dc48bdd55fcc7073521b84746b8b7b3cd04",
+      "previous": {
+        "bytes": 549316674,
+        "sha256": "418b3dd624c758952fe48d1974256711498975b6bc3e2ef551f144a24fbe6d83"
+      }
+    },
+    "web_playback": {
+      "url": "media/session-2.mp4",
+      "bytes": 76065242,
+      "sha256": "3b21ff9ef9f93ce4d1bd387b9abaedc025514589fb020f87345459e4e2ba9c7a",
+      "previous": {
+        "bytes": 76121230,
+        "sha256": "00bec8a2ec16dc655947822ceb43a0003db085e656855e881290a81afd8cbed7"
+      }
+    }
+  },
+  "preservation_checks": {
+    "session_download": {
+      "frames": true,
+      "duration": true,
+      "chapters": true,
+      "audio_packets_and_timing": true
+    },
+    "combined_download": {
+      "frames": true,
+      "duration": true,
+      "chapters": true,
+      "audio_packets_and_timing": true
+    },
+    "web_playback": {
+      "frames": true,
+      "duration": true,
+      "chapters": true,
+      "audio_packets_and_timing": true
+    }
+  }
+}

@@ -190,8 +190,8 @@
       "category": "Videos",
       "url": "https://github.com/CraigWrenasmir/phase-5-primary-education-online/releases/download/workshop-v1/primary-online--session-02.mp4",
       "storage": "release",
-      "bytes": 244011872,
-      "sha256": "d8e99b946aef52f69f714dc5d282ff3c27761c8ce8856c4daa2b3c714a4a89e7"
+      "bytes": 243538451,
+      "sha256": "11074c372b0b693f3b12df38e4276177cc2a2635b85d98d9c57f6e9e12a06143"
     },
     {
       "label": "Session 2 · web playback",
@@ -200,8 +200,8 @@
       "category": "Web playback",
       "url": "media/session-2.mp4",
       "storage": "pages",
-      "bytes": 76121230,
-      "sha256": "00bec8a2ec16dc655947822ceb43a0003db085e656855e881290a81afd8cbed7"
+      "bytes": 76065242,
+      "sha256": "3b21ff9ef9f93ce4d1bd387b9abaedc025514589fb020f87345459e4e2ba9c7a"
     },
     {
       "label": "Session 2 · Communication, Connection and the Primary School Day · structured script",
@@ -370,8 +370,8 @@
       "category": "Videos",
       "url": "https://github.com/CraigWrenasmir/phase-5-primary-education-online/releases/download/workshop-v1/primary-online--full-workshop.mp4",
       "storage": "release",
-      "bytes": 549316674,
-      "sha256": "418b3dd624c758952fe48d1974256711498975b6bc3e2ef551f144a24fbe6d83"
+      "bytes": 548846881,
+      "sha256": "b3980d3545fcd25a267bfa2912fc8dc48bdd55fcc7073521b84746b8b7b3cd04"
     },
     {
       "label": "Complete workshop · SRT",
@@ -402,6 +402,16 @@
       "storage": "pages",
       "bytes": 91878,
       "sha256": "6e40cff9e000f607755119bfda799341d9fea8e3dc84403507fd72d4b8ec9e77"
+    },
+    {
+      "label": "Positive Autistic Identity replacement slide",
+      "filename": "positive-autistic-identity.png",
+      "format": "png",
+      "category": "Slide replacements",
+      "url": "assets/positive-autistic-identity.png",
+      "storage": "pages",
+      "bytes": 304549,
+      "sha256": "00a21d602ef86ade6a0c2861d29cb3147509cb4ebfb950975a69b7237016bce1"
     }
   ],
   "source_original_count": 12,
