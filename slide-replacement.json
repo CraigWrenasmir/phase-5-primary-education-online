@@ -39,7 +39,7 @@
       }
     },
     "web_playback": {
-      "url": "media/session-2.mp4",
+      "url": "media/session-2.mp4?v=3b21ff9ef9f9",
       "bytes": 76065242,
       "sha256": "3b21ff9ef9f93ce4d1bd387b9abaedc025514589fb020f87345459e4e2ba9c7a",
       "previous": {
