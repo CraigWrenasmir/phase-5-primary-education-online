@@ -57,7 +57,7 @@
     'use strict';
     const data=JSON.parse(document.getElementById('workshop-data').textContent), sessions=data.sessions;
     const $=id=>document.getElementById(id), video=$('workshop-video'), select=$('session-select'), list=$('chapter-list');
-    const path=file=>/^https:\/\//.test(file)?file:file.split('/').map(encodeURIComponent).join('/');
+    const path=file=>/^https:\/\//.test(file)?file:file.split('?').map((part,index)=>index?part:part.split('/').map(encodeURIComponent).join('/')).join('?');
     const time=s=>{if(!Number.isFinite(s))return '';const n=Math.max(0,Math.floor(s)),h=Math.floor(n/3600),m=Math.floor(n%3600/60),sec=String(n%60).padStart(2,'0');return h?`${h}:${String(m).padStart(2,'0')}:${sec}`:`${m}:${sec}`;};
     const duration=s=>{if(!Number.isFinite(s))return '';const minutes=Math.round(s/60);return minutes<60?`${minutes} min`:`${Math.floor(minutes/60)} hr ${minutes%60} min`;};
     let saved={};try{saved=JSON.parse(localStorage.getItem('phase5-primary-online-place')||'{}')||{};}catch(_){saved={};}
