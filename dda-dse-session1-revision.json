@@ -1,0 +1,36 @@
+{
+  "date": "2026-09-28",
+  "scope": "DDA/DSE coverage in Session1. Only affected sessions rebuilt from updated read-only masters; unchanged narration reused.",
+  "workshop": "Primary Education Online",
+  "basis_commit": "f4da69eb0c2ca6dada4d17f1b153e4630c2bf41a",
+  "source_sessions": [
+    {
+      "session": 1,
+      "pptx": "PL Primary Online - Session 1 - Lens and Autistic Experience.pptx",
+      "pptx_sha256": "6cef9160ea6fec68e6c8fa74d12301fcc5fc259e869139cae969842d6c52fa52",
+      "pptx_bytes": 47510489,
+      "pdf": "PL Primary Online - Session 1 - Lens and Autistic Experience.pdf",
+      "pdf_sha256": "611ec9b7cbab0cc95929be6613c5eae5b5f4c6ce5367ce99793ae30367a39bfc",
+      "pdf_bytes": 2455636,
+      "source_slides": 19
+    }
+  ],
+  "sessions": [
+    {
+      "number": 1,
+      "duration_seconds": 1322.8,
+      "source_slide_count": 19,
+      "full_sha256": "fc04d41e81ff0f387b1a49e764773e99034bc61f539702221af2d6b303aa25c6",
+      "web_sha256": "eb2d98c31f1827c84655a3d263f0235d9dada5030be6290fb88db37457a5e74a"
+    }
+  ],
+  "combined": {
+    "duration_seconds": 5079.12,
+    "sha256": "3cd846d3c2b86b028cb95ec28ec9290b8aa1f0ee23e3affa619aa81f51f564eb",
+    "unchanged_session_picture_data_preserved": true
+  },
+  "total_source_slides": 67,
+  "playback": "Same-site web media. Full-quality Release assets are download-only.",
+  "narration": "Steve Hogan; unaffected narration retained. New or changed narration uses verified source-aligned text.",
+  "notes": "Original earlier revision records are preserved as historical evidence."
+}

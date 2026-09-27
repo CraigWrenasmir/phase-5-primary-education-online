@@ -50,8 +50,8 @@
       "category": "Slides",
       "url": "Original Assets/PL Primary Online - Session 1 - Lens and Autistic Experience.pdf",
       "storage": "pages",
-      "bytes": 2448988,
-      "sha256": "b7faf91f301e1f285aa2521df20541944cfc7221c5f1e2284c85da658fe09c12"
+      "bytes": 2455636,
+      "sha256": "611ec9b7cbab0cc95929be6613c5eae5b5f4c6ce5367ce99793ae30367a39bfc"
     },
     {
       "label": "PL Primary Online - Session 2 - Communication, Connection and the Primary School Day",
@@ -90,8 +90,8 @@
       "category": "Editable slides",
       "url": "Original Assets/PL Primary Online - Session 1 - Lens and Autistic Experience.pptx",
       "storage": "pages",
-      "bytes": 47506934,
-      "sha256": "5515e382def95e7747ec9e24ca8003c243c718a5f7c2867ed80d32c65926cb67"
+      "bytes": 47510489,
+      "sha256": "6cef9160ea6fec68e6c8fa74d12301fcc5fc259e869139cae969842d6c52fa52"
     },
     {
       "label": "PL Primary Online - Session 2 - Communication, Connection and the Primary School Day",
@@ -124,67 +124,67 @@
       "sha256": "b016ab629c20f1635924482f8a6663f9db2e2b82c009c8ad2a739bec4724530a"
     },
     {
-      "label": "Session 1 \u00b7 Lens and Autistic Experience",
+      "label": "Session 1 · Lens and Autistic Experience",
       "filename": "Session 1 - Lens and Autistic Experience.mp4",
       "format": "mp4",
       "category": "Videos",
       "url": "https://github.com/CraigWrenasmir/phase-5-primary-education-online/releases/download/workshop-v1/primary-online--session-01.mp4",
       "storage": "release",
-      "bytes": 125017302,
-      "sha256": "5ffe76689ca43e6470ab0d07d25ed199bac0186e6a82d528ec6e1dbe0b2aa9f7"
+      "bytes": 133545079,
+      "sha256": "fc04d41e81ff0f387b1a49e764773e99034bc61f539702221af2d6b303aa25c6"
     },
     {
-      "label": "Session 1 \u00b7 web playback",
+      "label": "Session 1 · web playback",
       "filename": "session-1.mp4",
       "format": "mp4",
       "category": "Web playback",
       "url": "media/session-1.mp4",
       "storage": "pages",
-      "bytes": 37658254,
-      "sha256": "dbba544ad06728b2975149a9e032eaf4842708fa16d5a15c88014c94d4852741"
+      "bytes": 40762854,
+      "sha256": "eb2d98c31f1827c84655a3d263f0235d9dada5030be6290fb88db37457a5e74a"
     },
     {
-      "label": "Session 1 \u00b7 Lens and Autistic Experience \u00b7 structured script",
+      "label": "Session 1 · Lens and Autistic Experience · structured script",
       "filename": "session-1.json",
       "format": "json",
       "category": "Scripts",
       "url": "Scripts/session-1.json",
       "storage": "pages",
-      "bytes": 28876,
-      "sha256": "80f9e1c8bbf61bb5a1c31d83ef0c52798a2611be67c7b8e7e5af2a2725e67628"
+      "bytes": 52289,
+      "sha256": "b5256125a639de6f268ed2a0f07014630989f52415a8725e04da62296bbe0690"
     },
     {
-      "label": "Session 1 \u00b7 Lens and Autistic Experience \u00b7 readable script",
+      "label": "Session 1 · Lens and Autistic Experience · readable script",
       "filename": "session-1.md",
       "format": "md",
       "category": "Scripts",
       "url": "Scripts/session-1.md",
       "storage": "pages",
-      "bytes": 22779,
-      "sha256": "adfb1e11edcc51b00e4cfaef584a6a13b5bb2de37d865ac905b872865f93a21f"
+      "bytes": 28502,
+      "sha256": "d48f758d174061f4ac3c38229b1d3d58f08f370dd525eb7cc55d4a436facf10b"
     },
     {
-      "label": "Session 1 \u00b7 SRT",
+      "label": "Session 1 · SRT",
       "filename": "Session 1 - Lens and Autistic Experience.srt",
       "format": "srt",
       "category": "Captions",
       "url": "Captions/session-1.srt",
       "storage": "pages",
-      "bytes": 23054,
-      "sha256": "5f75e6e923bcf626dd5f2f55d20b1cd3da14f0a4df179d06687c31c9f1cf9930"
+      "bytes": 26107,
+      "sha256": "58614b9533bb8c0de817b93c8c91fe43788f83e3abf4924f40810e0f0d1afe58"
     },
     {
-      "label": "Session 1 \u00b7 VTT",
+      "label": "Session 1 · VTT",
       "filename": "Session 1 - Lens and Autistic Experience.vtt",
       "format": "vtt",
       "category": "Captions",
       "url": "Captions/session-1.vtt",
       "storage": "pages",
-      "bytes": 22314,
-      "sha256": "d975ff04b4121f69675102d4b142b9c40f5332d9d5801b44444c56fa7c93f2b4"
+      "bytes": 26115,
+      "sha256": "e5e726c32ee3ce5d9b38f145278df1fd87a5c65e0dc22e3ae4545e90c46030b6"
     },
     {
-      "label": "Session 2 \u00b7 Communication, Connection and the Primary School Day",
+      "label": "Session 2 · Communication, Connection and the Primary School Day",
       "filename": "Session 2 - Communication, Connection and the Primary School Day.mp4",
       "format": "mp4",
       "category": "Videos",
@@ -194,7 +194,7 @@
       "sha256": "dd1e71ec0547a8dea64dd753c6308a4058b8448c96404de83ef15565c01506ee"
     },
     {
-      "label": "Session 2 \u00b7 web playback",
+      "label": "Session 2 · web playback",
       "filename": "session-2.mp4",
       "format": "mp4",
       "category": "Web playback",
@@ -204,7 +204,7 @@
       "sha256": "2dff0f0635d8482953a98882c59ec2f71851a96afd71af4d47a57389e4cc001c"
     },
     {
-      "label": "Session 2 \u00b7 Communication, Connection and the Primary School Day \u00b7 structured script",
+      "label": "Session 2 · Communication, Connection and the Primary School Day · structured script",
       "filename": "session-2.json",
       "format": "json",
       "category": "Scripts",
@@ -214,7 +214,7 @@
       "sha256": "5f53185ff97f509b32f44252243d23cf8f1f29fef085434a56fa5df890527d57"
     },
     {
-      "label": "Session 2 \u00b7 Communication, Connection and the Primary School Day \u00b7 readable script",
+      "label": "Session 2 · Communication, Connection and the Primary School Day · readable script",
       "filename": "session-2.md",
       "format": "md",
       "category": "Scripts",
@@ -224,7 +224,7 @@
       "sha256": "40adcb7d3b0a35ccf234524d2d75a7c75137bdce8874928c005158bd89c1614a"
     },
     {
-      "label": "Session 2 \u00b7 SRT",
+      "label": "Session 2 · SRT",
       "filename": "Session 2 - Communication, Connection and the Primary School Day.srt",
       "format": "srt",
       "category": "Captions",
@@ -234,7 +234,7 @@
       "sha256": "590d2c12cc8f422710d3e380c8ce8ab0d94e634bc8ecdd63b28a6e3d2c1c9a3f"
     },
     {
-      "label": "Session 2 \u00b7 VTT",
+      "label": "Session 2 · VTT",
       "filename": "Session 2 - Communication, Connection and the Primary School Day.vtt",
       "format": "vtt",
       "category": "Captions",
@@ -244,7 +244,7 @@
       "sha256": "38725fc44d73b6b76bc03d1cbdd26b96f91b4e2b4fe9fda8c90d17ab0548d465"
     },
     {
-      "label": "Session 3 \u00b7 Designing for Access in the Primary Classroom",
+      "label": "Session 3 · Designing for Access in the Primary Classroom",
       "filename": "Session 3 - Designing for Access in the Primary Classroom.mp4",
       "format": "mp4",
       "category": "Videos",
@@ -254,7 +254,7 @@
       "sha256": "1d3cf97c079b9794bfd5e63c638bcba260d0aba38f90ba23e3ee823e09af5f58"
     },
     {
-      "label": "Session 3 \u00b7 web playback",
+      "label": "Session 3 · web playback",
       "filename": "session-3.mp4",
       "format": "mp4",
       "category": "Web playback",
@@ -264,7 +264,7 @@
       "sha256": "d37eb4784fc21c389631caf691caecc71ddc999914c323ca66e0d9c0bed3f9d3"
     },
     {
-      "label": "Session 3 \u00b7 Designing for Access in the Primary Classroom \u00b7 structured script",
+      "label": "Session 3 · Designing for Access in the Primary Classroom · structured script",
       "filename": "session-3.json",
       "format": "json",
       "category": "Scripts",
@@ -274,7 +274,7 @@
       "sha256": "66cfb9ac8eca13995d61725bd25147c3fd37daa62b11e55c6d86166e6c39de8c"
     },
     {
-      "label": "Session 3 \u00b7 Designing for Access in the Primary Classroom \u00b7 readable script",
+      "label": "Session 3 · Designing for Access in the Primary Classroom · readable script",
       "filename": "session-3.md",
       "format": "md",
       "category": "Scripts",
@@ -284,7 +284,7 @@
       "sha256": "674090ebb4cb2d56fede61a67a91ae17b29084a999940bd88992624be91e0704"
     },
     {
-      "label": "Session 3 \u00b7 SRT",
+      "label": "Session 3 · SRT",
       "filename": "Session 3 - Designing for Access in the Primary Classroom.srt",
       "format": "srt",
       "category": "Captions",
@@ -294,7 +294,7 @@
       "sha256": "b5d21cec8e94e9a131a4d6da948a093708fb6579885e7ca464fa7cef4162891b"
     },
     {
-      "label": "Session 3 \u00b7 VTT",
+      "label": "Session 3 · VTT",
       "filename": "Session 3 - Designing for Access in the Primary Classroom.vtt",
       "format": "vtt",
       "category": "Captions",
@@ -304,7 +304,7 @@
       "sha256": "d3dc5b92cba7f4de1038ad3e17f38f13437677e62bb195b0aa45fb3945f2ae2e"
     },
     {
-      "label": "Session 4 \u00b7 Partnership, Flourishing and Next Steps",
+      "label": "Session 4 · Partnership, Flourishing and Next Steps",
       "filename": "Session 4 - Partnership, Flourishing and Next Steps.mp4",
       "format": "mp4",
       "category": "Videos",
@@ -314,7 +314,7 @@
       "sha256": "4b9157cfc4b532b3584ffe5b7d26f01735c425cea0d9cbcbcf60f090fa092cac"
     },
     {
-      "label": "Session 4 \u00b7 web playback",
+      "label": "Session 4 · web playback",
       "filename": "session-4.mp4",
       "format": "mp4",
       "category": "Web playback",
@@ -324,7 +324,7 @@
       "sha256": "95623ccd05292f41d4b7d880b3bb4da5780f350b0c94fe0d724be8158266c61f"
     },
     {
-      "label": "Session 4 \u00b7 Partnership, Flourishing and Next Steps \u00b7 structured script",
+      "label": "Session 4 · Partnership, Flourishing and Next Steps · structured script",
       "filename": "session-4.json",
       "format": "json",
       "category": "Scripts",
@@ -334,7 +334,7 @@
       "sha256": "e470d5e646abf82802837ea95605da60ddd5c881ae6c6d166877bfa8f8e6308e"
     },
     {
-      "label": "Session 4 \u00b7 Partnership, Flourishing and Next Steps \u00b7 readable script",
+      "label": "Session 4 · Partnership, Flourishing and Next Steps · readable script",
       "filename": "session-4.md",
       "format": "md",
       "category": "Scripts",
@@ -344,7 +344,7 @@
       "sha256": "85f1fc2a5ee5fa68e0df7c37e8b4222626c39a66f62066e19074760ab7f527de"
     },
     {
-      "label": "Session 4 \u00b7 SRT",
+      "label": "Session 4 · SRT",
       "filename": "Session 4 - Partnership, Flourishing and Next Steps.srt",
       "format": "srt",
       "category": "Captions",
@@ -354,7 +354,7 @@
       "sha256": "43a817b5b0381c1e07bafe744f46db659f27cae995db118e1003591b6dbd208c"
     },
     {
-      "label": "Session 4 \u00b7 VTT",
+      "label": "Session 4 · VTT",
       "filename": "Session 4 - Partnership, Flourishing and Next Steps.vtt",
       "format": "vtt",
       "category": "Captions",
@@ -370,28 +370,28 @@
       "category": "Videos",
       "url": "https://github.com/CraigWrenasmir/phase-5-primary-education-online/releases/download/workshop-v1/primary-online--full-workshop.mp4",
       "storage": "release",
-      "bytes": 554102067,
-      "sha256": "f639f111282f7400a69d1b621de18cc078fb9f8361487753fe8e8ac7f55331ad"
+      "bytes": 562830561,
+      "sha256": "3cd846d3c2b86b028cb95ec28ec9290b8aa1f0ee23e3affa619aa81f51f564eb"
     },
     {
-      "label": "Complete workshop \u00b7 SRT",
+      "label": "Complete workshop · SRT",
       "filename": "Full Workshop.srt",
       "format": "srt",
       "category": "Captions",
       "url": "Captions/full-workshop.srt",
       "storage": "pages",
-      "bytes": 93646,
-      "sha256": "de4f6dbd6b50e2043eb3c09576da5a47309c38c63baf990f410e6894b5ddbb71"
+      "bytes": 96699,
+      "sha256": "be59dd2982797491daffbc4783ebb0b093ef1d81a717c7384f4f64f79f683156"
     },
     {
-      "label": "Complete workshop \u00b7 VTT",
+      "label": "Complete workshop · VTT",
       "filename": "Full Workshop.vtt",
       "format": "vtt",
       "category": "Captions",
       "url": "Captions/full-workshop.vtt",
       "storage": "pages",
-      "bytes": 90326,
-      "sha256": "140e86f253dd557c73dc573121f74c755dccdd45606bfd9fcd66d025bac8eb05"
+      "bytes": 96707,
+      "sha256": "ad068d8f845602ff994320d21d7afad3eb32b0b0f0b4a88d6ffa83c644e339d3"
     },
     {
       "label": "Full facilitation script",
@@ -400,8 +400,8 @@
       "category": "Scripts",
       "url": "Scripts/Full Facilitation Script.md",
       "storage": "pages",
-      "bytes": 92918,
-      "sha256": "bfb05ceef02b52d9ba16bc7d50dd8e3e9c469e0d169e181e5d64084ad209cd5a"
+      "bytes": 98641,
+      "sha256": "74977d87473614fb98757e61ec0e5b674c69535571791e87111e2d9c01ffa398"
     },
     {
       "label": "Positive Autistic Identity replacement slide",
@@ -416,5 +416,6 @@
   ],
   "source_original_count": 12,
   "basis_repository_commit": "e4048ed317b59429fa0c9ed00b2ad647e5d52674",
-  "playback": "Same-site web derivatives. Full-quality videos are Release downloads only."
+  "playback": "Same-site web derivatives. Full-quality videos are Release downloads only.",
+  "current_revision": "dda-dse-session1-revision.json"
 }

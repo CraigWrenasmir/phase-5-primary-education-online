@@ -2,7 +2,7 @@
 
 The Statement of Reconciliation supplied on 27 September 2026 is read aloud after the Acknowledgement of Country in Session 1. Participants are invited to read it in their workbook; the presenter reads it aloud for this demonstration.
 
-Four simulated Primary Education Online sessions follow all 66 active source slides, the supplied online guides and three original embedded films. The recordings use brief activity pauses; the supplied guides retain the full live-session timings.
+Four simulated Primary Education Online sessions follow all 67 active source slides, the supplied online guides and three original embedded films. The recordings use brief activity pauses; the supplied guides retain the full live-session timings.
 
 - Online participation is optional. Private reflection works throughout; chat, whiteboard or discussion is invited only if viewers are watching with a live group. No participant responses or live producer actions are invented.
 - Each activity has an eight-second pause and an invitation to pause the video for longer, followed by a debrief. Full breakout waits are replaced by optional private work or a short conversation with colleagues.
