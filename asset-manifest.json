@@ -130,8 +130,8 @@
       "category": "Videos",
       "url": "https://github.com/CraigWrenasmir/phase-5-primary-education-online/releases/download/workshop-v1/primary-online--session-01.mp4",
       "storage": "release",
-      "bytes": 117437602,
-      "sha256": "e84acdf6752ca337665fa4d29f32f6a35f88c56cc117cfb91eef6da7ce1ca90f"
+      "bytes": 125017302,
+      "sha256": "5ffe76689ca43e6470ab0d07d25ed199bac0186e6a82d528ec6e1dbe0b2aa9f7"
     },
     {
       "label": "Session 1 · web playback",
@@ -140,8 +140,8 @@
       "category": "Web playback",
       "url": "media/session-1.mp4",
       "storage": "pages",
-      "bytes": 35938791,
-      "sha256": "bc7246663883aae4fc2eafc3a3269128d4af77873d7e7404d24d97212b27cb34"
+      "bytes": 37658254,
+      "sha256": "dbba544ad06728b2975149a9e032eaf4842708fa16d5a15c88014c94d4852741"
     },
     {
       "label": "Session 1 · Lens and Autistic Experience · structured script",
@@ -150,8 +150,8 @@
       "category": "Scripts",
       "url": "Scripts/session-1.json",
       "storage": "pages",
-      "bytes": 27537,
-      "sha256": "0770a6881f9e41a469ecd4af37fafd603034df01739a9722cdf4220a4cc321cf"
+      "bytes": 28876,
+      "sha256": "80f9e1c8bbf61bb5a1c31d83ef0c52798a2611be67c7b8e7e5af2a2725e67628"
     },
     {
       "label": "Session 1 · Lens and Autistic Experience · readable script",
@@ -160,8 +160,8 @@
       "category": "Scripts",
       "url": "Scripts/session-1.md",
       "storage": "pages",
-      "bytes": 21739,
-      "sha256": "80e90697c7510af0479a893c756f81b2c916214345a82ccce5e9d35b3464da4c"
+      "bytes": 22779,
+      "sha256": "adfb1e11edcc51b00e4cfaef584a6a13b5bb2de37d865ac905b872865f93a21f"
     },
     {
       "label": "Session 1 · SRT",
@@ -170,8 +170,8 @@
       "category": "Captions",
       "url": "Captions/session-1.srt",
       "storage": "pages",
-      "bytes": 22001,
-      "sha256": "2d608b6a313833f158585c874cc10193aaeb3a875458550cbf229b983d06f8b5"
+      "bytes": 23054,
+      "sha256": "5f75e6e923bcf626dd5f2f55d20b1cd3da14f0a4df179d06687c31c9f1cf9930"
     },
     {
       "label": "Session 1 · VTT",
@@ -180,8 +180,8 @@
       "category": "Captions",
       "url": "Captions/session-1.vtt",
       "storage": "pages",
-      "bytes": 22009,
-      "sha256": "5f93de1f4e579bb3af6eac3bfcd4d3460804e39fce96308632a0909209e13454"
+      "bytes": 22314,
+      "sha256": "d975ff04b4121f69675102d4b142b9c40f5332d9d5801b44444c56fa7c93f2b4"
     },
     {
       "label": "Session 2 · Communication, Connection and the Primary School Day",
@@ -370,8 +370,8 @@
       "category": "Videos",
       "url": "https://github.com/CraigWrenasmir/phase-5-primary-education-online/releases/download/workshop-v1/primary-online--full-workshop.mp4",
       "storage": "release",
-      "bytes": 548846881,
-      "sha256": "b3980d3545fcd25a267bfa2912fc8dc48bdd55fcc7073521b84746b8b7b3cd04"
+      "bytes": 556421781,
+      "sha256": "17fb6be9fb7b60f53a040bc27f65d1e51f52bb8f9c065154fc51f7bfc0c49e7d"
     },
     {
       "label": "Complete workshop · SRT",
@@ -380,8 +380,8 @@
       "category": "Captions",
       "url": "Captions/full-workshop.srt",
       "storage": "pages",
-      "bytes": 92593,
-      "sha256": "da601ca7fd5236306f8777108cb69b7c2d5f081024c8c806394f6506592bf733"
+      "bytes": 93646,
+      "sha256": "de4f6dbd6b50e2043eb3c09576da5a47309c38c63baf990f410e6894b5ddbb71"
     },
     {
       "label": "Complete workshop · VTT",
@@ -390,8 +390,8 @@
       "category": "Captions",
       "url": "Captions/full-workshop.vtt",
       "storage": "pages",
-      "bytes": 92601,
-      "sha256": "9db0c54fe73e9e477daf7881b23f0e0273490e789ba87a30c4102df833f7456b"
+      "bytes": 90326,
+      "sha256": "140e86f253dd557c73dc573121f74c755dccdd45606bfd9fcd66d025bac8eb05"
     },
     {
       "label": "Full facilitation script",
@@ -400,8 +400,8 @@
       "category": "Scripts",
       "url": "Scripts/Full Facilitation Script.md",
       "storage": "pages",
-      "bytes": 91878,
-      "sha256": "6e40cff9e000f607755119bfda799341d9fea8e3dc84403507fd72d4b8ec9e77"
+      "bytes": 92918,
+      "sha256": "bfb05ceef02b52d9ba16bc7d50dd8e3e9c469e0d169e181e5d64084ad209cd5a"
     },
     {
       "label": "Positive Autistic Identity replacement slide",
