@@ -1,0 +1,120 @@
+{
+  "updated": "2026-09-27",
+  "scope": "Supplied slide visual replacements in session videos, complete workshop download and published slide PDFs. Audio, captions, timings and source editable decks are unchanged.",
+  "basis_commit": "c3f37d08dbd1f0a6f179cc6c2ed8ff48cc4e2b58",
+  "replacements": [
+    {
+      "session": 2,
+      "slide": 16,
+      "title": "Positive Autistic Identity",
+      "requested_start": 1365,
+      "requested_end": 1429,
+      "start": 1365.68,
+      "end": 1429.88,
+      "png_sha256": "00a21d602ef86ade6a0c2861d29cb3147509cb4ebfb950975a69b7237016bce1",
+      "chapter_title": "Positive Autistic Identity",
+      "site_image": "assets/slide-updates/session-2-slide-16.png",
+      "pdf": "Original Assets/PL Primary Online - Session 2 - Communication, Connection and the Primary School Day.pdf"
+    },
+    {
+      "session": 4,
+      "slide": 14,
+      "title": "Connections that continue",
+      "requested_start": 1063,
+      "requested_end": 1114,
+      "start": 1063.48,
+      "end": 1114.68,
+      "png_sha256": "bc3862616112bccf49541a2538b9b6ce55f5a3b780b83f12e595f59b322df64c",
+      "chapter_title": "Connections that continue",
+      "site_image": "assets/slide-updates/session-4-slide-14.png",
+      "pdf": "Original Assets/PL Primary Online - Session 4 - Partnership, Flourishing and Next Steps.pdf"
+    },
+    {
+      "session": 4,
+      "slide": 15,
+      "title": "Feedback",
+      "requested_start": 1114,
+      "requested_end": 1179,
+      "start": 1114.68,
+      "end": 1179.12,
+      "png_sha256": "869a2d1d070d5d6a9dc4328214a6cccb5efd05b489be1b8f128490e68e9ba84b",
+      "chapter_title": "Feedback",
+      "site_image": "assets/slide-updates/session-4-slide-15.png",
+      "pdf": "Original Assets/PL Primary Online - Session 4 - Partnership, Flourishing and Next Steps.pdf"
+    }
+  ],
+  "files": {
+    "media/session-2.mp4": {
+      "bytes": 76063702,
+      "sha256": "2dff0f0635d8482953a98882c59ec2f71851a96afd71af4d47a57389e4cc001c"
+    },
+    "Original Assets/PL Primary Online - Session 2 - Communication, Connection and the Primary School Day.pdf": {
+      "bytes": 6818098,
+      "sha256": "1664412a1c6cc6cdd5a5b502e3291c6dbd21729fe52250eeb6ee731d2fcf9180"
+    },
+    "assets/slide-updates/session-2-slide-16.png": {
+      "bytes": 304549,
+      "sha256": "00a21d602ef86ade6a0c2861d29cb3147509cb4ebfb950975a69b7237016bce1"
+    },
+    "assets/positive-autistic-identity.png": {
+      "bytes": 304549,
+      "sha256": "00a21d602ef86ade6a0c2861d29cb3147509cb4ebfb950975a69b7237016bce1"
+    },
+    "media/session-4.mp4": {
+      "bytes": 33241505,
+      "sha256": "95623ccd05292f41d4b7d880b3bb4da5780f350b0c94fe0d724be8158266c61f"
+    },
+    "Original Assets/PL Primary Online - Session 4 - Partnership, Flourishing and Next Steps.pdf": {
+      "bytes": 1790977,
+      "sha256": "77b9ef462b722dc3a53d12993d4c0a664100437f97503b9d6daca9d1d6c4c734"
+    },
+    "assets/slide-updates/session-4-slide-14.png": {
+      "bytes": 109717,
+      "sha256": "bc3862616112bccf49541a2538b9b6ce55f5a3b780b83f12e595f59b322df64c"
+    },
+    "assets/slide-updates/session-4-slide-15.png": {
+      "bytes": 106711,
+      "sha256": "869a2d1d070d5d6a9dc4328214a6cccb5efd05b489be1b8f128490e68e9ba84b"
+    },
+    "asset-manifest.json": {
+      "bytes": 16806,
+      "sha256": "5a090538cd3cc9930240ce1ec9a8ce9cbb9ef4250f0c4fa393ac416e55d07888"
+    },
+    "index.html": {
+      "bytes": 198972,
+      "sha256": "f015ce37a6676ec195fc99ab59ead42a223f41f38f4c0342aa90a8015b80e4cf"
+    },
+    "resources.html": {
+      "bytes": 23610,
+      "sha256": "5efc7ccb3c39bb589aa35eb516dba186baf20063b9e67e1fb3ee99540da42586"
+    },
+    "viewing-notes.html": {
+      "bytes": 19921,
+      "sha256": "846900494356963443caaceae3fdd60f0c51b35fcfb079377a84ec83a0cd5887"
+    },
+    "Viewing notes.md": {
+      "bytes": 3721,
+      "sha256": "9d0dfcf9754843b510cee6e1eff62d4a2e8652377f035fdfd839c436f5624b1f"
+    }
+  },
+  "downloads": [
+    {
+      "url": "https://github.com/CraigWrenasmir/phase-5-primary-education-online/releases/download/workshop-v1/primary-online--session-02.mp4",
+      "sha256": "dd1e71ec0547a8dea64dd753c6308a4058b8448c96404de83ef15565c01506ee",
+      "bytes": 243538471,
+      "previous_sha256": "11074c372b0b693f3b12df38e4276177cc2a2635b85d98d9c57f6e9e12a06143"
+    },
+    {
+      "url": "https://github.com/CraigWrenasmir/phase-5-primary-education-online/releases/download/workshop-v1/primary-online--session-04.mp4",
+      "sha256": "4b9157cfc4b532b3584ffe5b7d26f01735c425cea0d9cbcbcf60f090fa092cac",
+      "bytes": 101433442,
+      "previous_sha256": "a99703c7baa3b10b20d442d45336eaa8c7ad5ec751b9b8f23b95abf60d16e81f"
+    },
+    {
+      "url": "https://github.com/CraigWrenasmir/phase-5-primary-education-online/releases/download/workshop-v1/primary-online--full-workshop.mp4",
+      "sha256": "f639f111282f7400a69d1b621de18cc078fb9f8361487753fe8e8ac7f55331ad",
+      "bytes": 554102067,
+      "previous_sha256": "17fb6be9fb7b60f53a040bc27f65d1e51f52bb8f9c065154fc51f7bfc0c49e7d"
+    }
+  ]
+}
